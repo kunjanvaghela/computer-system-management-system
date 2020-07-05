@@ -1,0 +1,495 @@
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\documents\visual studio 2013\Projects\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Project CSMS\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.4\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Desktop\CSMS\Test GUI for Inventory App 0.0.5-Final\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Downloads\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5-Check Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddSerialNo.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddSerialNo.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddSerialNo.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test_GUI_for_Inventory_App_0.0.5\Test GUI for Inventory App 0.0.5\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6\Test GUI for Inventory App 0.0.6 - Added Purchase_Order Form\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - Vineet did some changes\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.4 - GUI Updates+Inventory Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.4\Test GUI for Inventory App 0.0.6.4 - GUI Up+Inv Done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Desktop\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.6\Test GUI for Inventory App 0.0.6.6 - Customer Billing done\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7 - Almost complete\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7 - Almost complete\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.7 - Almost complete\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.8\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App 0.0.6.9 Trying Attendance and Payroll\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App 0.0.6.9\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Documents\TY\Project CSMS\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Vineet Khanna\Downloads\Test GUI for Inventory App\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Vineet Khanna\Documents\Visual Studio 2013\Projects\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+F:\ \Black Book Materials\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+F:\ \Black Book Materials\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+F:\ \Black Book Materials\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Desktop\CSMS\CD\Test GUI for Inventory App-Latest\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe.config
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.exe
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\Test GUI for Inventory App.pdb
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csprojResolveAssemblyReference.cache
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.AddModel.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer_Billing.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Inventory.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.MainForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.LoginForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Customer.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PasswordRecoveryForm.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PaymentCustomer.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Payroll.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.PrintDetails.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Properties.Resources.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.Supplier.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test_GUI_for_Inventory_App.UserAccounts.resources
+C:\Users\Kunjan\Desktop\CSMS\CD - Final\Test GUI for Inventory App\Test GUI for Inventory App\obj\Debug\Test GUI for Inventory App.csproj.GenerateResource.Cache
